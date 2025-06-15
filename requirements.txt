@@ -1,0 +1,5 @@
+opencv-python
+ffmpeg-python
+torch
+numpy
+tqdm
