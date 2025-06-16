@@ -3,3 +3,7 @@ ffmpeg-python
 torch
 numpy
 tqdm
+moviepy
+openai-whisper
+openai
+python-dotenv
