@@ -1,4 +1,4 @@
-from utils.video_utils import extract_frames
+from utils.video.video_utils import extract_frames
 from utils.audio.audio_utils import extract_audio_from_video
 from utils.audio.transcription_utils import transcribe_audio_whisper
 from utils.audio.llm_utils import analyze_commentary_with_llm

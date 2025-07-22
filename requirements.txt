@@ -7,3 +7,5 @@ moviepy
 openai-whisper
 openai
 python-dotenv
+mediapipe
+scikit-image

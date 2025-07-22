@@ -22,4 +22,9 @@
 *.3gp
 *.m4v
 
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
 .env
